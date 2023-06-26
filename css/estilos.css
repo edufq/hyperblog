@@ -18,7 +18,8 @@ body
 
 #cabecera
 {
-    background-color: aqua;
+    background: url("../img/dragon.png") 10px 10px;
+    background-color: rgb(35, 71, 71);
     color: white;
     margin: 0;
     padding: 0.5em;
